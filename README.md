@@ -2,6 +2,10 @@
 
 Predicting whether a missense variant is likely disease-causing, using protein language model scores, evaluated on genes the model has never seen, and applied to prioritize Variants of Uncertain Significance (VUS) from ClinVar.
 
+**Live demo:**
+https://variant-pathogenicity-esm2-m7to79upw5p7sanscfhbgh.streamlit.app/
+
+
 > **Research prototype. Not a clinical tool.** Predictions must not be used for diagnosis or treatment decisions.
 
 ---
