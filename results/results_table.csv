@@ -1,0 +1,9 @@
+Split,Model,AUROC,AUROC_std,AUPRC,MCC
+Random split,ESM score only (no training),0.813,0.008,0.871,0.474
+Random split,Simple features + LogReg,0.733,0.008,0.749,0.316
+Random split,Simple features + LightGBM,0.814,0.005,0.832,0.496
+Random split,ESM + simple + LightGBM,0.883,0.002,0.913,0.622
+Gene-held-out split,ESM score only (no training),0.808,0.064,0.856,0.46
+Gene-held-out split,Simple features + LogReg,0.731,0.035,0.733,0.317
+Gene-held-out split,Simple features + LightGBM,0.8,0.048,0.797,0.469
+Gene-held-out split,ESM + simple + LightGBM,0.868,0.044,0.893,0.582
