@@ -118,4 +118,4 @@ Large intermediate files (ClinVar, ESM position scores) are not included because
 
 ## Author
 
-[Your Name] · [Your email or LinkedIn]
+Tehreem raouf · https://www.linkedin.com/in/tehreem-raouf
